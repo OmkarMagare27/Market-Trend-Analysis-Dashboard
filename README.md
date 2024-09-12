@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/a1b92b8f-0d4f-4f86-826c-3fba1349c761)
-Project Name: TCS Stock Market Analysis Dashboard
+Project Name: TCS Stock Market Analysis Dashboard.
+
+
+
 Link to check it out on Power Bi: https://app.powerbi.com/groups/me/reports/373f8c7b-bb9e-4b13-b6fa-9700d42339dd/ReportSection?experience=power-bi
 
 Description: This project visualizes the historical stock market performance of Tata Consultancy Services (TCS) based on data from various stock attributes such as Open, High, Low, Close, Adjusted Close, and Volume. The dashboard aims to provide insights into TCS’s stock trends over time by utilizing key metrics and graphical representations. The analysis highlights patterns in the stock’s daily, monthly, and yearly performance, enabling easier decision-making and interpretation of stock market behavior.
